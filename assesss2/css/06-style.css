@@ -1,0 +1,21 @@
+*{
+    color: brown;
+    background-color: black;
+    text-align: center;
+    font-size: medium;
+}
+.higliht{
+    color: blue;
+    font-size: 1,3rem;
+}
+.center{
+    color: chartreuse;
+
+}
+#p-1{
+    color: aqua;
+}
+span.span-el{
+    color: brown;
+    
+}

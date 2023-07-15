@@ -1,0 +1,23 @@
+h1.baslık{
+    color: blue;
+    font-size: large;
+}
+.baslık{
+    color: green;
+}
+h1{
+    color: aqua;
+}
+
+*{
+    color: red;
+}
+h1.baslık.renk{
+    color: blueviolet;
+}
+h1.baslık.renk.aktif{
+    color: brown;
+}
+
+/* css comment açmak için shıft+ alt + a tuşlarına basın. */
+

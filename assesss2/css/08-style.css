@@ -1,0 +1,13 @@
+/* bu bir yorum satırıdır
+ */
+ .aktif{
+    color: white;
+    background-color: grey;
+    text-align: center;
+    width: 250px;
+    height: 260px;
+ }
+ h1{
+    background-color: black; width: 250px; height: 60px;
+    
+ }
