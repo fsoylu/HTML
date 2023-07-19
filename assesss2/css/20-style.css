@@ -1,0 +1,29 @@
+body{
+    font-family: 'Caveat', cursive;
+font-family: 'Lilita One', cursive;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+}
+nav.menu{
+    background-color: aquamarine;
+}
+nav.menu ul{
+    list-style-type: "⚙️";
+    list-style-position: inside;
+    padding: 0;
+}
+nav.menu ul a{
+    padding: 5px;
+}
+nav.menu a:hover{
+    color: #872436;
+    background-color: cyan;
+}
+
+
+nav.menu ul li {
+    margin-bottom: 0.5rem;
+}

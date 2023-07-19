@@ -1,0 +1,18 @@
+h1{
+    font-size: 4rem;
+    color: blue;
+    text-align: center;
+
+}
+.content{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2rem;
+
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: aquamarine;
+color: red;
+}
