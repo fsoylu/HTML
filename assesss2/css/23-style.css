@@ -1,0 +1,29 @@
+/* nav.menu{
+    background-color: rgb(163,104,215);
+
+} */
+nav.menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav.menu ul li {
+    display: inline-block;
+    margin-right: 1.3rem;
+    margin-top: 1rem;
+   
+}
+nav.menu ul li a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 1.4rem 1.2rem;
+    background-color: rgb(163,104,215) ;
+    color: aliceblue;
+    font-size: 1.3rem;
+    width: 8rem;
+}
+nav.menu ul li a:hover{
+    background-color: chartreuse;
+    color: black;
+}
