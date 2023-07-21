@@ -1,0 +1,30 @@
+nav.menı{
+    display: inline-block;
+}
+nav.menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 1rem;
+    background-color: aqua;
+    display: none;
+}
+nav.menu:hover ul{
+    display: inline-block;
+
+}
+nav.menu button{
+    display: block;
+    cursor: pointer;
+
+}
+nav.menu a:hover{
+    text-decoration: none;
+    background-color: blueviolet;
+}
+nav.menu li{
+    padding: 10px;
+
+}
+nav.menu a{
+    text-decoration: none;
+}
