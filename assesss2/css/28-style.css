@@ -1,0 +1,17 @@
+nav.menu li{
+    background-color: red;
+}
+nav.menu > ul > li{
+    color: greenyellow;
+}
+
+nav.menu > ul > ul > li{
+    color: cadetblue;
+}
+nav.menu > ul > ul > li:last-child{
+    color: blueviolet;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 2rem;
+    background-color:black;
+}
