@@ -1,0 +1,18 @@
+}
+.border-2{
+    border-left: 3px groove blue;
+    border-top: 13px double rgb(87, 87, 218);
+    padding: 1rem;
+}
+.border-3{
+    border:12px outset purple ;
+}
+.border-4{
+    border:12px inset purple ;
+    border-radius: 10px 20px 10px 35px ;
+    -webkit-border-radius: 10px 20px 10px 35px ;
+    -moz-border-radius: 10px 20px 10px 35px ;
+    -ms-border-radius: 10px 20px 10px 35px ;
+    -o-border-radius: 10px 20px 10px 35px ;
+    text-align: center;
+}
